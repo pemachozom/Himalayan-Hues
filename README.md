@@ -8,7 +8,7 @@
 
 This project simulates a real-world development environment, focusing on:
 - 🔄 Continuous Integration and Deployment with GitLab CI/CD
-- ☁️ Deployment on **Serve 00** (a free hosting service)
+- ☁️ Deployment on **Render** (a free cloud hosting service)
 - 🔧 Infrastructure automation and version control
 
 ---
@@ -29,8 +29,8 @@ Developed as a group project for the module **CSF302: DevOps and Automation for 
 
 - GitLab CI/CD  
 - Node.js  
-- MongoDB 
-- Serve 00 (deployment)  
+- MongoDB  
+- Render (deployment)  
 - Git & VS Code  
 
 ---
@@ -49,6 +49,13 @@ Project planning and task delegation were managed using Asana:
 
 ---
 
+## 🌐 Deployment
+
+The project is deployed on **Render** and can be accessed here:  
+🔗 [Live Site](https://group4himalayanhues.onrender.com/)
+
+
+---
 
 ## ✅ Project Status
 
