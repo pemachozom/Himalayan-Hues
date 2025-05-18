@@ -38,7 +38,7 @@ Developed as a group project for the module **CSF302: DevOps and Automation for 
 ## 🎨 UI/UX Design
 
 We used Figma to design the user interface collaboratively:  
-🔗 [View Figma Design](https://www.figma.com/design/Enckx1OK0d4LPiml8ilMkR/Mushroom-Classification?t=3hHAuCRWUlad5UXj-0)
+🔗 [View Figma Design](https://www.figma.com/design/NaFDmoQVnbEGQ73RPdC5MA/Devops?node-id=0-1&p=f&t=RWRK8F2tPCS0maMb-0)
 
 ---
 
